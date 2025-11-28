@@ -118,8 +118,8 @@ app.get('/', (req, res) => {
     <body>
       <div class="container">
         <div class="profile-header">
-          <h1>[Your Name Here]</h1>
-          <p class="section">Class Section: [Your Section]</p>
+          <h1>[Ken R. Germedia]</h1>
+          <p class="section">Class Section: [NT 4101]</p>
         </div>
         
         <div class="info-grid">
