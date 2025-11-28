@@ -130,7 +130,7 @@ app.get('/', (req, res) => {
           
           <div class="info-card">
             <div class="info-label">AGE</div>
-            <div class="info-value">23 years old</div>
+            <div class="info-value">22 years old</div>
           </div>
           
           <div class="info-card">
